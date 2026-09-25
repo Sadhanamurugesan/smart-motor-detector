@@ -32,7 +32,7 @@
 
 * **SCHEMATIC DIAGRAM**
 
-     **![][image1]**
+     **![schematic](schematic.jpeg)**
 
 - **The Potentiometer, Temperature Sensor, Fire Sensor and Emergency Button are connected to the Arduino UNO.**
 
@@ -78,7 +78,7 @@
 
 * **RESULT**
 
-**![][image2]**  
+**![result](result.jpeg)**  
 **The Smart Motor Guardian successfully monitors the motor and provides alerts for abnormal conditions. During critical or emergency conditions, it automatically stops the motor, improving motor safety.**  
 
 
